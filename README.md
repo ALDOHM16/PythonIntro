@@ -15,6 +15,7 @@
 [TOC]
 
 # Install Anaconda
+The first think that you have to do is download Anaconda to be able to work whit Jupiter , the links is down
 https://www.anaconda.com/
 ## Introduction on Python, how to write code, and run it
 ## How to manage varibles, lists, dictionaries.
