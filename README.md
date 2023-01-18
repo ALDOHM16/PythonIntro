@@ -10,14 +10,15 @@
 
 **Table of Contents**
 
-[TOCM]
+[ TOCM ]
 
 [TOC]
 
-#Install Anaconda
-##Run and Open a Notebook
-###Variables
-####Errors
+# Install Anaconda
+## Introduction on Python, how to write code, and run it
+## How to manage varibles, lists, dictionaries.
+## How to create subroutines and execute them.
+## Error management and configuration issues.
 
 
 
