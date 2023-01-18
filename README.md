@@ -15,6 +15,7 @@
 [TOC]
 
 # Install Anaconda
+https://www.anaconda.com/
 ## Introduction on Python, how to write code, and run it
 ## How to manage varibles, lists, dictionaries.
 ## How to create subroutines and execute them.
