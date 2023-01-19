@@ -1,6 +1,13 @@
+Co-authored-by: Aldo Maldonado Hernadez aldo.maldonadohz@udlap.mx>
+
+
+Co-authored-by: AUTHOR-NAME <ANOTHER-NAME@EXAMPLE.COM>"
+
+
+
 ### Introduction
 
-- In this tutorial you will be able to work whit jupyter.
+- En este tutorial vamos a aprender como usar  jupyter.
 
 
 # Python.md
@@ -14,25 +21,26 @@
 
 [TOC]
 
-# Install Anaconda
-The first think that you have to do is download Anaconda to be able to work whit Jupiter , the links here:
+# Instalar Anaconda
+Lo primero que tienes que hacer es descargar Anaconda para poder trabajar con Júpiter, los enlaces aquí:
 https://www.anaconda.com/
-## Introduction on Python, how to write code, and run it
 
-Hello World Example
+## Introducción a Python, cómo escribir código y ejecutarlo
+
+Hello World Ejemplo
 ```sh
 print("Hellow World")
 
 ```
-Addition
+Suma
 ```sh
 a=10
 b=5
 addition= a+b
 print(addition)
 ```
-Add Text to the notebook
-(Remember to change Code for Markdown)
+AAgregar Texto al notebook
+(Recuerda cambiar la parte de Code por Markdown para que funcione )
 
 ```sh
 <h1>Hellow World code <h1/>
