@@ -24,7 +24,12 @@ print("Hellow World")
 
 ```
 
-
+```sh
+a=10
+b=5
+addition= a+b
+print(addition)
+```
 
 
 ## How to manage varibles, lists, dictionaries.
