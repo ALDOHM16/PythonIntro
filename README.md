@@ -24,14 +24,19 @@ Hello World Example
 print("Hellow World")
 
 ```
-
+Addition
 ```sh
 a=10
 b=5
 addition= a+b
 print(addition)
 ```
+Add Text to the notebook
+(Remember to change Code for Markdown)
 
+```sh
+<h1>Hellow World code <h1/>
+```
 
 ## How to manage varibles, lists, dictionaries.
 ## How to create subroutines and execute them.
